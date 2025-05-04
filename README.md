@@ -1,6 +1,6 @@
 # GifsApp
 
-link: https://visionary-klepon-3a9194.netlify.app/
+link para vista previa: https://gif-app-jean-torres.netlify.app/
 
 This project was generated using [Angular CLI](https://github.com/angular/angular-cli) version 19.2.3.
 
